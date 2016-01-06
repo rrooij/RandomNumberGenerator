@@ -10,6 +10,8 @@ Uses Java's Random class (http://docs.oracle.com/javase/1.4.2/docs/api/java/util
 
 ![App Screenshot][3]
 
+This fork removes Android Wear support to be able to remove the Android Google Play Services, which are proprietary.
+
 
 Developed By
 ============
